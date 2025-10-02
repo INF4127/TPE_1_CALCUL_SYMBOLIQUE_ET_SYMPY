@@ -28,10 +28,11 @@ TPE_1_CALCUL_SYMBOLIQUE_ET_SYMPY/
   
   │── sympy___calcul_symbolique.pdf          
   │── sympy.ipynb                            
-  │── README.md                           
-  │── 22W2147LETHYCIA-MELONG.md           
-  │── 22W2164LEA-DASSI.md                     
-  │── 22T2960ARSENE-BELL.md          
+  │── README.md    
+  │── doc
+    │── 22W2147LETHYCIA-MELONG.md           
+    │── 22W2164LEA-DASSI.md                     
+    │── 22T2960ARSENE-BELL.md          
 
 ## Technologies utilisées
 
