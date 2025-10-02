@@ -25,20 +25,21 @@ Il comporte :
 ## Structure du projet
 
 TPE_1_CALCUL_SYMBOLIQUE_ET_SYMPY/
-│── sympy___calcul_symbolique.pdf          # Présentation théorique
-│── sympy.ipynb            # Notebook Jupyter (exemples pratiques avec Sympy)
-│── README.md                 # Fichier principal (ce document)
-│── 22W2147LEHYCIA-MELONG.md           
-│── 22W2164LEA-DASSI.md                     
-│── 22T2960ARSENE-BELL.md          
+  
+  │── sympy___calcul_symbolique.pdf          
+  │── sympy.ipynb                            
+  │── README.md                           
+  │── 22W2147LEHYCIA-MELONG.md           
+  │── 22W2164LEA-DASSI.md                     
+  │── 22T2960ARSENE-BELL.md          
 
 ## Technologies utilisées
 
-Python 3.10+
++ Python 3.10+
 
-Jupyter Notebook (Ou google colab)
++ Jupyter Notebook (Ou google colab)
 
-Sympy pour le calcul symbolique
++ Sympy
 
 
 ## Installation
@@ -54,24 +55,21 @@ cd TPE_1_CALCUL_SYMBOLIQUE_ET_SYMPY
 
 pip install sympy jupyter
 
-### 3 - Utilisation
+## Utilisation
 
-Lancer Jupyter Notebook :
-
-jupyter notebook
-
+Lancer Jupyter Notebook : jupyter-notebook
 
 Ouvrir le fichier sympy.ipynb.
 
 Exécuter les cellules pour explorer les exemples :
 
-Simplifications d’expressions
+- Simplifications d’expressions
 
-Résolution d’équations
+- Résolution d’équations
 
-Dérivées et intégrales
+- Dérivées et intégrales
 
-Matrice Hessienne et optimisation
+- Matrice Hessienne et optimisation
 
 ## Contenu pédagogique
 
@@ -87,8 +85,8 @@ Partie 4 : Application en optimisation (points critiques, gradient, Hessien)
 
 Projet réalisé dans le cadre du TPE N°1 par :
 
-BELL ARSENE KEVIN
+- BELL ARSENE KEVIN
 
-DASSI MANDJO LEA JUSTINE
+ -DASSI MANDJO LEA JUSTINE
 
-MELONG LETHYCIA
+- MELONG LETHYCIA
