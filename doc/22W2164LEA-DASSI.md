@@ -2,7 +2,7 @@
 
 ## Informations générales
 - **Étudiant** : DASSI MANDJO LEA JUSTINE  
-- **Projet** : TPE N°1 : CALCUL SYMBOLIQUE ET SYMPY  
+- **Projet** : TPE N°1 : CALCUL SYMBOLIQUE ET SYMPY  &&  FONCTIONS DE PERTE
 - **Encadrant** : Pr. MELATAGIA Paulin 
 - **Période** : 25/09/2025 – 02/10/2025 
 
@@ -20,6 +20,7 @@
 ### Jour 1 – 01/10/2025
 
 - Documentation sur le Calcul Symbolique.
+- Rédaction des slides de la **sympy___calcul_symbolique.pdf**.
 - Lecture de la documentation de Sympy.
 - Installation de la bibliothèque sympy avec `pip install sympy`.
 - Réalisation d’exemples simples sur le calcul symbolique pour l'optimisation.  
@@ -28,13 +29,23 @@
     
 - Écriture du README.md.
 - Écriture du 22W2164LEA-DASSI.md.
+- Fournir les expressions des gradients de la MSE et de la Perte de Huber.
+- Étude des propriétés de convexité des fonctions: MSE et Perte de Huber.
+- Représentation des courbes de ses fonctions.
+
+### Jour 3 – 03/10/2025
+    
+- Mise à jour du README.md.
+- Mise à jour dé 22W2164LEA-DASSI.md.
+- Correction sur l'emplacement des datasets et du notebook.
 
 ---
 
 ## Contribution personnelle
 
-- Mise en place de quelques exemples dans **notebook.ipynb**.  
-- Rédaction des slides de la **présentation.pdf**.  
+- Mise en place de quelques exemples (section 7) dans **sympy.ipynb**.  
+- Rédaction des slides de la **sympy___calcul_symbolique.pdf**.  
+- Étude de la MSE et de la Perte de Huber dans **fonction_perte.ipynb**. 
 
 ---
 
@@ -46,10 +57,12 @@
 ---
 
 ## Auto-évaluation
-- **Points forts** : implication régulière, bonne maîtrise de Sympy de base.  
-- **Points à améliorer** : approfondir les applications avancées (équations différentielles, matrices symboliques).  
+- **Points forts** : implication régulière, bonne maîtrise de Sympy de base, bonne compréhension des fonctions de perte et de leurs propriété de convexité.  
+- **Points à améliorer** : approfondir les applications avancées (équations différentielles, matrices symboliques), approfondir les notions sur les fonctions de perte(entropie croisée binaire et entropie coisée catégorielle, etc.).  
 
 ---
 
 ## Prochaines étapes
-- Préparer une possible soutenance orale.  
+- Préparer une possible soutenance orale.
+- Terminer la rédaction du notebook attendu.
+- Faire les différents points à améliorer.
