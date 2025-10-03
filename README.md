@@ -1,5 +1,6 @@
 # TPE_1_CALCUL_SYMBOLIQUE_ET_SYMPY
-Ce projet vise à édifier sur le calcul symbolique et son implementation avec sympy. Il comporte une présentation, un notebook, et 4 fichiers readMe.
+Ce projet vise à introduire le **calcul symbolique** et son implémentation avec la bibliothèque **Sympy** en Python.  
+Il combine à la fois une présentation théorique, des fichiers de suivi et des applications pratiques en optimisation et en apprentissage automatique
 
 ## Description du projet
 
@@ -11,7 +12,7 @@ Ce projet comporte :
 
 - Des **fichiers README de suivi** représentant le travail réalisé par chaque membre dans le dossier doc.
 
-- Une **application pratique** portant sur l’étude de la convexité des fonctions de perte utilisées en machine learning.
+- Une **application pratique (notebook Jupyter)** portant sur l’étude de la convexité des fonctions de perte utilisées en machine learning.
 
 - Des **datasets** pour l'expérimentation sur des données réelles des fonctions de perte.
 
