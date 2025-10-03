@@ -12,6 +12,10 @@
 - Comprendre les bases du calcul symbolique, ses avantages et différentes applications.  
 - Approfondir l’utilisation de la librairie **Sympy**.  
 - Contribuer à la rédaction de la présentation finale.  
+- Présenter les fonctions de perte : Erreur Quadratique Moyenne (MSE) et Perte de Huber.
+- Utiliser le calcul symbolique (Sympy) pour obtenir les expressions analytiques de leurs gradients et vérifier leurs propriétés de convexité.
+- Générer les jeux de données.
+- Tracer les courbes des fonctions de perte et analyser leur comportement et, appliquer le calcul symbolique en géométrie en déterminant l’équation de la tangente à une ellipse en un point donné.
 
 ---
 
@@ -65,4 +69,5 @@
 ## Prochaines étapes
 - Préparer une possible soutenance orale.
 - Terminer la rédaction du notebook attendu.
-- Faire les différents points à améliorer.
+- S'appesantir sur les différents points à améliorer.
+
